@@ -9,6 +9,6 @@ You can create EC2 instance in joindevops using this module
 * tags (Required) - A map of tags to be associated with instance
 
 ## Outputs
-* public_ip - Public Ip of the instance created
-* private_ip - Private Ip of the instance created
+* public_ip - Public IP of the instance created
+* private_ip - Private IP of the instance created
 * instance_id - Instance ID of the instance created
